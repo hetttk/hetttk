@@ -63,6 +63,9 @@ Passionate about Data Science, Machine Learning, Statistics, and building intell
 
 ✅ Statistics Fundamentals
 
+✅ Feature Engineering
+
+
 ---
 
 ### Currently Studying
@@ -70,10 +73,6 @@ Passionate about Data Science, Machine Learning, Statistics, and building intell
 🔹 Mathematics for AI & Machine Learning
 
 🔹 Advanced Statistics
-
-🔹 Data Preprocessing
-
-🔹 Feature Engineering
 
 🔹 Machine Learning Algorithms
 
