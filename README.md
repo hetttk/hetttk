@@ -45,6 +45,7 @@ no cap, I'm just a college kid who fell in love with **data, patterns, and makin
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 </div>
@@ -59,7 +60,7 @@ no cap, I'm just a college kid who fell in love with **data, patterns, and makin
 [✔] Power BI + Excel
 [✔] SQL Basics
 [✔] Business Case Studies (+ Intro Stats)
-[✔] Data Preprocessing & Feature Engineering
+[✔] Data Preprocessing & Feature Engineering (using scikit-learn)
 ```
 
 ## 🔄 currently grinding on
@@ -81,7 +82,7 @@ no cap, I'm just a college kid who fell in love with **data, patterns, and makin
 | 02 | Python + Data Libraries | ✅ |
 | 03 | Power BI, Excel, SQL | ✅ |
 | 04 | Business Case Studies + Stats | ✅ |
-| 05 | Data Preprocessing & Feature Eng. | ✅ |
+| 05 | Data Preprocessing & Feature Eng. (scikit-learn) | ✅ |
 | 06 | Advanced Maths & Statistics | 🔄 |
 | 07 | Supervised Learning | 🔄 |
 | 08 | Unsupervised Learning | ⏳ |
@@ -125,7 +126,7 @@ lowkey manifesting: mastering **deep learning, NLP,** and shipping **real end-to
 <a href="https://www.linkedin.com/in/het-kapadnekar-a96aa7350" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:kapadnekarhet05@gmail.com.com">
+<a href="mailto:kapadnekarhet05@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://twitter.com/YOUR-HANDLE" target="_blank">
@@ -136,6 +137,7 @@ lowkey manifesting: mastering **deep learning, NLP,** and shipping **real end-to
 </a>
 
 </div>
+
 
 <div align="center">
 
