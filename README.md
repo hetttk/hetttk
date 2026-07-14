@@ -100,10 +100,10 @@ I'm actively working towards mastering **advanced machine learning concepts**, *
 I'm always open to conversations about data, AI/ML, internships, or collaborative projects. Don't hesitate to reach out!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/het-kapadnekar-a96aa7350/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="kapadnekarhet05@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://twitter.com/YOUR-HANDLE" target="_blank">
@@ -111,7 +111,7 @@ I'm always open to conversations about data, AI/ML, internships, or collaborativ
   </a>
 </p>
 
-> 📝 *Replace the placeholder links above with your actual LinkedIn, email, and social profiles.*
+
 
 ---
 
