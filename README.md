@@ -1,205 +1,118 @@
-<h1 align="center">Hi, I'm Het Kapadnekar 👋</h1>
-
-<h3 align="center">
-BCA Student | Artificial Intelligence & Machine Learning Enthusiast
-</h3>
+<h1 align="center">Hi there, I'm Het Kapadnekar 👋</h1>
+<h3 align="center">Aspiring Data Scientist | AI/ML Enthusiast | BCA Undergraduate</h3>
 
 <p align="center">
-Passionate about Data Science, Machine Learning, Statistics, and building intelligent systems that solve real-world problems.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions...;Learning+AI%2FML+one+model+at+a+time...;Open+to+Internships+%26+Collaborations...;Let's+Connect+and+Build+Together!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hetkapadnekar&label=Profile%20Views&color=2F80ED&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## About Me
+### 🚀 About Me
 
-🎓 Pursuing **Bachelor of Computer Applications (BCA)**
+I'm currently pursuing my **Bachelor's in Computer Applications (BCA)**, while *simultaneously* building a strong foundation in **Artificial Intelligence, Machine Learning, and Data Analytics** through a dedicated, self-driven learning path.
 
-🧠 Specializing in **Artificial Intelligence & Machine Learning**
+I believe in learning by **doing** — combining academic knowledge with hands-on projects, case studies, and real-world datasets to become industry-ready.
 
-📍 Based in India
+🎯 **Currently looking for internship opportunities** where I can apply my skills, learn from real challenges, and contribute meaningfully to a team.
 
-📈 Currently building strong foundations in:
-
-- Mathematics for AI/ML
-- Advanced Statistics
-- Data Preprocessing
-- Feature Engineering
-- Machine Learning Fundamentals
-
-💡 Interested in:
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Generative AI
-- Deep Learning
-- NLP
-- Computer Vision
-
-🚀 Looking for:
-
-- AI/ML Internships
-- Data Science Internships
-- Open Source Contributions
-- Collaborative Projects
+🤝 Always excited to **connect, collaborate, and learn** with fellow developers, data enthusiasts, and mentors — feel free to reach out!
 
 ---
 
-## Learning Journey
+### 🧰 Tech Stack & Tools
 
-### Completed
+**Programming & Core**
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-✅ Python Programming
+**Data Analysis & Visualization**
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
 
-✅ SQL
-
-✅ Microsoft Excel
-
-✅ Power BI
-
-✅ Data Analysis
-
-✅ Business Case Studies
-
-✅ Statistics Fundamentals
-
-✅ Feature Engineering
-
-
----
-
-### Currently Studying
-
-🔹 Mathematics for AI & Machine Learning
-
-🔹 Advanced Statistics
-
-🔹 Machine Learning Algorithms
+**BI & Productivity Tools**
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
 ---
 
-### Upcoming Learning Roadmap
+### ✅ Skills I've Completed So Far
 
-📚 Generative AI
+- 🖥️ **C Language** — Programming Fundamentals
+- 🐍 **Python** — including Pandas, NumPy, Seaborn, Matplotlib
+- 📊 **Power BI** — Dashboarding & Business Intelligence
+- 📈 **Excel** — Data Handling & Analysis
+- 🗄️ **SQL (Basics)** — Querying & Database Fundamentals
+- 📚 **Business Case Studies** — including Introductory Statistics
+- 🧹 **Data Preprocessing & Feature Engineering**
 
-📚 Supervised Learning
+### 📖 Currently Learning
 
-📚 Unsupervised Learning
-
-📚 Natural Language Processing (NLP)
-
-📚 Reinforcement Learning
-
-📚 Model Selection & Evaluation
-
-📚 Deep Learning
-
-📚 Computer Vision & Image Analysis
-
-📚 Data Structures & Algorithms
-
-📚 End-to-End AI/ML Projects
-
-📚 Soft Skills & Professional Development
+- ➗ **Mathematics & Advanced Statistics**
+- 🤖 **Supervised Learning**
 
 ---
 
-## Technical Skills
+### 🗺️ My Learning Roadmap
 
-### Programming
+Here's my structured path towards becoming a well-rounded **AI/ML & Data Science Professional**:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Data Analysis
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-
-### Database
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-
-### Currently Learning
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-
-![Statistics](https://img.shields.io/badge/Statistics-4285F4?style=for-the-badge)
-
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-7B68EE?style=for-the-badge)
+| # | Milestone | Status |
+|---|-----------|--------|
+| 1 | C Language Basics | ✅ Completed |
+| 2 | Python (Pandas, NumPy, Seaborn, Pyplot) | ✅ Completed |
+| 3 | Power BI, Excel & SQL (Basics) | ✅ Completed |
+| 4 | Business Case Studies & Introductory Statistics | ✅ Completed |
+| 5 | Data Preprocessing & Feature Engineering | ✅ Completed |
+| 6 | Mathematics & Advanced Statistics | 🔄 In Progress |
+| 7 | Supervised Learning | 🔄 In Progress |
+| 8 | Unsupervised Learning Algorithms | ⏳ Upcoming |
+| 9 | GenAI / AI-ML | ⏳ Upcoming |
+| 10 | Data Structures & Algorithms | ⏳ Upcoming |
+| 11 | Natural Language Processing (NLP) | ⏳ Upcoming |
+| 12 | Reinforcement Learning & Model Selection | ⏳ Upcoming |
+| 13 | Deep Learning — Computer Vision & Image Analysis | ⏳ Upcoming |
+| 14 | Soft Skills & Professional Development Training | ⏳ Upcoming |
+| 15 | Live Projects End-to-End — Final Capstone Project | ⏳ Upcoming |
 
 ---
 
-## Current Focus
+### 📌 What's Next for Me
 
-```yaml
-Learning:
-  - Mathematics for AI/ML
-  - Advanced Statistics
-  - Feature Engineering
-  - Machine Learning
-
-Building:
-  - Data Analysis Projects
-  - Machine Learning Projects
-
-Exploring:
-  - Generative AI
-  - NLP
-  - Computer Vision
-
-Goal:
-  - Secure an AI/ML Internship
-```
+I'm actively working towards mastering **advanced machine learning concepts**, **deep learning**, and **NLP**, with the ultimate goal of building **end-to-end, real-world AI/ML projects**. Alongside technical growth, I'm equally focused on **soft skills and professional development** to become a well-rounded data professional.
 
 ---
 
-## GitHub Goals for 2026
+### 📫 Let's Connect
 
-- Build 10+ AI/ML Projects
-- Master Machine Learning Fundamentals
-- Learn Deep Learning
-- Contribute to Open Source
-- Participate in Hackathons
-- Secure My First AI/ML Internship
+I'm always open to conversations about data, AI/ML, internships, or collaborative projects. Don't hesitate to reach out!
 
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/YOUR-HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
 
-## Featured Project Areas
-
-### Data Analysis
-
-- Exploratory Data Analysis
-- Business Case Studies
-- Dashboard Development
-- Data Visualization
-
-### Machine Learning
-
-- Regression Models
-- Classification Models
-- Clustering
-- Model Evaluation
-
-### Future AI Projects
-
-- NLP Applications
-- Computer Vision Projects
-- Generative AI Applications
-- Recommendation Systems
+> 📝 *Replace the placeholder links above with your actual LinkedIn, email, and social profiles.*
 
 ---
 
-## Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/het-kapadnekar-a96aa7350/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BmQP%2FqmD9Qbe9gtBjTVMxTg%3D%3D
-- Portfolio: Add Your Link
-- Email: kapadnekarhet05@gmail.com
-
----
-
-> "Every expert was once a beginner. Consistency compounds into expertise."
+<p align="center"><i>"Data is the new oil, but insight is the refinery." 🚀</i></p>
